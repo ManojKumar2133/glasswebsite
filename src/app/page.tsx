@@ -4,15 +4,17 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 
 const carouselImages = [
+  "/image.jpg",
   "/image1.jpg",
   "/image2.jpg",
   "/image3.jpg",
 ];
 
 const galleryImages = [
-  "/image1.jpg",
-  "/image2.jpg",
-  "/image3.jpg",
+  "/image4.jpg",
+  "/image5.jpg",
+  "/image6.jpg",
+  "/image7.jpg",
 ];
 
 export default function Home() {
